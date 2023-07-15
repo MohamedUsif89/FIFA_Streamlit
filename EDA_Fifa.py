@@ -8,7 +8,7 @@ st.title('FIFA Exploratory Data Analysis')
 
 st.markdown('This app is a data analysis of the FIFA datase')
 
-fifa = pd.read_csv('fifa_.csv')
+fifa = pd.read_csv('FIFA_.csv')
 
 st.subheader('Top 5 Valued players')
 
